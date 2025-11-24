@@ -71,4 +71,16 @@ postgresql://postgres:Password123!@db.vykgdjbpsqdqjtfrivzh.supabase.co:5432/post
 6. Scritpt en create_tables.sql
 7. Datos de prueba creado en Sample_data.sql
 8. Join creado en Join_query.sql
-9. Imagenes solicitadas carpeta imagenes 
+9. Imagenes solicitadas carpeta imagenes
+10. Credenciales de Acceso para Pruebas
+
+🔗 URLs de Acceso:
+- Panel Supabase:** https://vykgdjbpsqdqjtfrivzh.supabase.co
+- API REST Base:** https://vykgdjbpsqdqjtfrivzh.supabase.co/rest/v1/
+
+🔑 Credenciales API:
+- API Key: `sb_publishable_0_lgoaqQNFvkBumC7AQzrw_e0cPxkti`
+- Host: `db.vykgdjbpsqdqjtfrivzh.supabase.co`
+- Puerto: `5432`
+- Usuario: `postgres`
+- Contraseña: `Password123!`
